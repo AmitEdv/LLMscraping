@@ -1,0 +1,18 @@
+# Core frameworks
+scrapegraphai
+langchain
+langchain-community
+langchain-text-splitters
+langchain-core
+
+# LLM providers
+ollama
+
+# Utilities
+python-dotenv
+pandas
+beautifulsoup4
+lxml
+
+# Browser automation (for ScrapeGraphAI)
+playwright
